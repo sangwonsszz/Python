@@ -7,10 +7,12 @@ st.write(
     # 나에게 가장 도움이 될 것 같은 유튜브
     ## 나도 코딩 
     > 이유 : 기초부터 많이 알려준다
+    * [유튜브 바로가기](https://youtube.com/@gunnycoding)
 
     # 다른 학생들에게 도움이 될 것 같은 유튜브
     ## 빵형의 개발도상국
     > 이유 : 재밌는 영상이 많다
+    * [유튜브 바로가기](https://www.youtube.com/@bbanghyong)
 
     # 참고 사이트
     * [icons8](https://icons8.com/)
